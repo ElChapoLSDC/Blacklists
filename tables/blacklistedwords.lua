@@ -1,16 +1,9 @@
--- Here you are going to add all your blacklisted words, if you DON'T know what are you doing, leave it default and follow the tutorial
--- If you already know what im talking about, add everything to make your server safer
--- Don't forget commas!!
+ANTICHEAT = {}
 
-
-FuxiaBW = {}
-
-FuxiaBW.Words = {
+ANTICHEAT.Words = {
 'Desudo',
 'Brutan',
 'EulenCheats',
-"Lynx 8",
-"www.lynxmenu.com",
 "HamHaxia",
 "Ham Mafia",
 "www.renalua.com",
@@ -20,12 +13,9 @@ FuxiaBW.Words = {
 "Ham Mafia", 
 "Xanax#0134", 
 ">:D Player Crash",  
-"34ByTe Community", 
-"lynxmenu.com", 
 "Anti-Lynx",
 "Baran#8992",
 "iLostName#7138",
-"85.190.90.118",
 "Melon#1379",
 "hammafia.com",
 "AlphaV ~ 5391",
@@ -33,11 +23,9 @@ FuxiaBW.Words = {
 "Soviet Bear",
 "MARVIN menu",
 "KoGuSzEk#3251",
-"chocolate",
 "panickey",
 "killmenu",
 "panik",
-"lynx",
 "brutan",
 "saucy"
 }

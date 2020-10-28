@@ -1,5 +1,5 @@
 # Blacklist
-Blacklist designed for chocohax anti-cheat
+Blacklist for anti-cheat
 
 For more information see my topic: https://forum.cfx.re/t/lsdc-anti-cheat-security-anti-explosion-blacklist/1731226
 

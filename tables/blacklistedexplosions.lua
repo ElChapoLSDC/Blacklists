@@ -1,9 +1,6 @@
--- Here you are going to configure all your blacklisted explosions, if you DON'T know what are you doing, leave it default and follow the tutorial
--- If you already know what im talking about have fun.
+ANTICHEAT = {}
 
-FuxiaBEX = {}
-
-FuxiaBEX.ExplosionsList = {
+ANTICHEAT.ExplosionsList = {
     [0] = { name = "EXPLOSION_GRENADE", log = true, ban = true },
     [1] = { name = "EXPLOSION_GRENADELAUNCHER", log = true, ban = true },
     [3] = { name = "EXPLOSION_STICKYBOMB", log = true, ban = true },

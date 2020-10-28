@@ -1,10 +1,6 @@
--- Here you are going to add all your blacklisted models, if you DON'T know what are you doing, leave it default and follow the tutorial
--- If you already know what im talking about, add everything to make your server safer
--- Don't forget commas!!
+ANTICHEAT = {}
 
-FuxiaBM = {}
-
-FuxiaBM.BlacklistedWeapons = {
+ANTICHEAT.BlacklistedWeapons = {
 
 	--[[-
 	MELEE
@@ -147,7 +143,7 @@ FuxiaBM.BlacklistedWeapons = {
 
 }
 
-FuxiaBM.BlacklistedEntities = { -- Vehicles,Models,Objects,Niggers
+ANTICHEAT.BlacklistedEntities = { -- Vehicles,Models,Objects...
 
 	--[[-------------
 	VEHICULES BL LSDC
@@ -1105,7 +1101,7 @@ FuxiaBM.BlacklistedEntities = { -- Vehicles,Models,Objects,Niggers
 
 }
 
-FuxiaBM.BlacklistedPeds = { -- Peds, animals, etc.
+ANTICHEAT.BlacklistedPeds = { -- Peds, animals, etc.
 	"s_m_y_swat_01",
 	"a_m_y_mexthug_01", 
     "a_c_cat_01", 

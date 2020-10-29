@@ -9,7 +9,7 @@ ANTICHEAT.ExplosionsList = {
     [6] = { name = "EXPLOSION_TANKSHELL", log = true, ban = true },
     [7] = { name = "EXPLOSION_HI_OCTANE", log = true, ban = false },
     [8] = { name = "EXPLOSION_CAR", log = true, ban = false },
-    [9] = { name = "EXPLOSION_PLANE", log = true, ban = true },
+    [9] = { name = "EXPLOSION_PLANE", log = true, ban = false },
     [10] = { name = "EXPLOSION_PETROL_PUMP", log = true, ban = false },
     [11] = { name = "EXPLOSION_BIKE", log = true, ban = false },
     [12] = { name = "EXPLOSION_DIR_STEAM", log = true, ban = false },
